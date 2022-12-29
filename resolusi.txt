@@ -4,3 +4,5 @@ Beginner C++ Resolution:
 - Merapihkan file hasil belajar di github and git
 - Mencatat pembelajaran di buku/notion.
 - Membuat project sederhana
+- Pelajari OOP c++
+- Lanjut pembelajaran ke Mobile Programming
