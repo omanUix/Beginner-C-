@@ -1,0 +1,6 @@
+Beginner C++ Resolution:
+- Konsisten belajar c++ 3 jam sehari
+- Bangun 2 am setiap hari
+- Merapihkan file hasil belajar di github and git
+- Mencatat pembelajaran di buku/notion.
+- Membuat project sederhana
