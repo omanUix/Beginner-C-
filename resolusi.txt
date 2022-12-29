@@ -5,4 +5,4 @@ Beginner C++ Resolution:
 - Mencatat pembelajaran di buku/notion.
 - Membuat project sederhana
 - Pelajari OOP c++
-- Lanjut pembelajaran ke Mobile Programming
+- Pelajari flutter
