@@ -6,4 +6,6 @@ RENCANA BELAJAR
 - JAVA SCRIPT
   * ES6
   * Framework
+- Python
+- Java
 - FLUTTER
