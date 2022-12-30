@@ -4,5 +4,6 @@ RENCANA BELAJAR
 - HTML
 - CSS
 - JAVA SCRIPT
-- FRAME WORK
+  * ES6
+  * Framework
 - FLUTTER
