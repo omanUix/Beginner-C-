@@ -1,0 +1,9 @@
+RENCANA BELAJAR
+
+- C++
+- HTML
+- CSS
+- JAVA SCRIPT
+  * ES6
+  * Framework
+- FLUTTER
