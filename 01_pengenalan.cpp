@@ -2,6 +2,10 @@
 using namespace std;
 
 int main(){
-    cout << "Hello World";
-    cout << "Ubah warna misalkan";
+	string nama;
+    	cout << "Hello World";
+    	cout << "Ubah warna misalkan";
+
+    	cout << "masukan nama: \n";
+    	cin >> nama;
 }
